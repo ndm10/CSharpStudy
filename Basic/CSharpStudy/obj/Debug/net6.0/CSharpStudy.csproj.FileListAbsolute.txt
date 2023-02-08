@@ -1,0 +1,15 @@
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpStudy.exe
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpStudy.deps.json
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpStudy.runtimeconfig.json
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpStudy.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpStudy.pdb
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.csproj.AssemblyReference.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.AssemblyInfoInputs.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.AssemblyInfo.cs
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.csproj.CoreCompileInputs.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\refint\CSharpStudy.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.pdb
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpStudy.genruntimeconfig.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\ref\CSharpStudy.dll

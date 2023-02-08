@@ -1,0 +1,15 @@
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpDelgate.exe
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpDelgate.deps.json
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpDelgate.runtimeconfig.json
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpDelgate.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\bin\Debug\net6.0\CSharpDelgate.pdb
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.csproj.AssemblyReference.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.AssemblyInfoInputs.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.AssemblyInfo.cs
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.csproj.CoreCompileInputs.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\refint\CSharpDelgate.dll
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.pdb
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\CSharpDelgate.genruntimeconfig.cache
+D:\Learning\MyProject\CSharpStudy\CSharpBasic\CSharpStudy\obj\Debug\net6.0\ref\CSharpDelgate.dll
